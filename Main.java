@@ -1,4 +1,4 @@
-package me.craftshipper.main;
+package com.darkania.main;
  
 import net.md_5.bungee.api.ChatColor;
 
