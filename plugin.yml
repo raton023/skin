@@ -1,0 +1,6 @@
+main: me.craftshipper.main.Main
+name: Youtube
+version: 2.0
+author: GerVobis
+commands:
+  skin:
